@@ -20,7 +20,7 @@ This repository exhibits the authors ability to use the python libraries:
 Yahoo Finance API and Pandas dataframe manipulation of data.
 
 ### `ORIE5258_HW2_lc2234_vk369.ipynb`
-# ORIE 5258 Homework 2: Calculating Optimal Minimum-Variance Portfolio Weights
+ORIE 5258 Homework 2: Calculating Optimal Minimum-Variance Portfolio Weights
 
 #### Students: Vishakha Korde (vk369) and Luis Alonso Cendra Villalobos (lc2234)
 **Stocks chosen:**
@@ -34,7 +34,7 @@ Start = 9/1/2023
 End = 10/30/2023
 
 ### `ORIE5258_Assignment3_lc2234_vk369.ipynb`
-# ORIE 5258 / Homework 3: KNN 
+ORIE 5258 / Homework 3: KNN 
 
 #### Students: Vishakha Korde (vk369) and Luis Alonso Cendra Villalobos (lc2234)
 **Stocks chosen:** AAPL, AMZN, AVGO, BRK, GOOG, HD, JNJ, JPM, LLY, MA, META, MSFT, NVDA, ORCL, PG, TSLA, UNH, V, WMT, XOM
@@ -48,10 +48,10 @@ Start = 1/1/2018
 End = 11/04/2023
 
 ### `ORIE5258_Assignment4_lc2234_vk369.ipynb`
-# ORIE 5258 / Homework  4: Bayesian Analysis
+ORIE 5258 / Homework  4: Bayesian Analysis
 
 #### Students: Vishakha Korde (vk369) and Luis Alonso Cendra Villalobos (lc2234)
-# Sample 1
+Sample 1
 **Stocks chosen:** AAPL, AMZN, AVGO, BRK, GOOG, HD, JNJ, JPM, LLY, MA, META, MSFT, NVDA, ORCL, PG, TSLA, UNH, V, WMT, XOM
 
 **Stock to be predicted:** AAPL
@@ -63,7 +63,7 @@ Start = 1/1/2018
 End = 11/04/2023
 
 ### `ORIE5258_Assignment5_lc2234_vk369.ipynb`
-# ORIE 5258 / Homework 5: Random Forests
+ORIE 5258 / Homework 5: Random Forests
 
 #### Students: Vishakha Korde (vk369) and Luis Alonso Cendra Villalobos (lc2234)
 **Stocks chosen:** AAPL, AMZN, BRK, GOOG, META, MSFT, NVDA, TSLA, UNH, XOM
